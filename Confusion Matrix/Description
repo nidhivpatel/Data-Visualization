@@ -1,1 +1,6 @@
+A confusion matrix is a table used to visualize the performance of a classification machine learning model.
 
+It shows how many times the model correctly or incorrectly predicted each class.
+
+This helps identify areas for improvement, like high false positives for a specific class, allowing data scientists to refine the model for
+better accuracy.
