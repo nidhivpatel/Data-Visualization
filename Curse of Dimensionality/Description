@@ -1,1 +1,6 @@
+For each choice of dimension d ∈ [2^0, 2^1, 2^2, ..., 2^10], sample 100 points from the unit cube, and recorded the following average distances between all pairs of points, as well as the standard deviation of
+the distances.
+1. Squared Euclidean (or squared ℓ2) distance = ||x − y||2 = (X − Y )^2
+2. Manhattan Distance (or ℓ1) distance = ||x − y||1 = |X − Y |
 
+Code contains plotting of both the average and standard deviation of pairwise distances as a function of d.
